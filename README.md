@@ -21,4 +21,4 @@ unzip(zipfile = "ci-ncia-aberta_UFRJ-.zip")
 ```
 
   # Authors
-Bruno Soares, Guilherme Maricato e Bruno Umbelino
+Bruno Eleres Soares, Guilherme Maricato e Bruno Umbelino
