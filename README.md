@@ -1,6 +1,6 @@
 # General Overview
   
-  Este reposótio contém as informações que orientaram o desenvolvimento o primeiro curso de “Ciência Aberta" no programa de pós graduação em Ecologia da Universidade Federal do Rio de Janeiro.
+  Este reposótio contém as informações que orientaram o desenvolvimento o primeiro curso de “Ciência Aberta" no programa de pós graduação em Ecologia da Universidade Federal do Rio de Janeiro. Realizado entre os dias 17 a 21 de fevereiro de 2025.
 
   # Repository structure
   # Folders
