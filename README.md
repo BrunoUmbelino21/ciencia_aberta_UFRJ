@@ -1,12 +1,12 @@
 # General Overview
   
-  Este reposótio contém informações que orientaram o desenvolvimento do curso de “Ciência Aberta" no programa de pós graduação em Ecologia da Universidade Federal do Rio de Janeiro.
+  Este reposótio contém as informações que orientaram o desenvolvimento o primeiro curso de “Ciência Aberta" no programa de pós graduação em Ecologia da Universidade Federal do Rio de Janeiro.
 
   # Repository structure
   # Folders
   . artigos_leitura: Estudos sobre Ciência Aberta que apoiaram as discussões nas aulas.
   
-  . aulas_slides: Material de apoio para as aulas síncronas. Todos os documentos estão em formato power point.
+  . apresentacao: Material de apoio para as aulas síncronas. Todos os documentos estão em formato power point.
   
  ## Downloading this repository
 The user can download this repo to a local folder in your computer or clone it:
